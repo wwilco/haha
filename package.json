@@ -1,0 +1,22 @@
+{
+  "name": "shirtshop",
+  "version": "1.0.0",
+  "description": "This site was created as part of a group project that included the following team members:\r * James O'Toole\r * Will Wilcox\r * Andrew Brice\r * Joe Keohan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wwilco/haha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwilco/haha/issues"
+  },
+  "homepage": "https://github.com/wwilco/haha",
+  "dependencies": {
+    "ws": "^0.7.1"
+  }
+}
